@@ -59,7 +59,7 @@ function Layout({ children, isDarkMode, setIsDarkMode }) {
             <footer className="bg-white dark:bg-gray-800 shadow-lg mt-auto transition-colors duration-300">
                 <div className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
                     <div className="text-center">
-                        <p className="text-gray-600 dark:text-gray-300">&copy; 2024 React Tasks. All rights reserved.</p>
+                        <p className="text-gray-600 dark:text-gray-300">&copy; 2025 React Tasks. All rights reserved.</p>
                     </div>
                 </div>
             </footer>
